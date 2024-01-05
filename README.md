@@ -1,0 +1,5 @@
+- 👋 Merhaba, ben @lorkaze.
+- 👀 HTML, CSS, SQL ve JavaScript gibi web geliştirme teknolojilerine ilgi duyuyorum.
+- 🌱 Şu anda bu dilleri daha iyi anlamak ve becerilerimi geliştirmek üzerine çalışıyorum.
+- 💞️ Bu konularda işbirliği yapmak istiyorum.
+- 📫 Benimle iletişime geçmek için ...
